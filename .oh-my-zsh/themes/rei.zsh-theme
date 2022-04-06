@@ -5,7 +5,7 @@
 local sta="%(?:%{$fg_bold[magenta]%}[%{$fg[green]%}$%{$reset_color%}%{$fg_bold[magenta]%}]:%{$fg_bold[magenta]%}[%{$fg[red]%}$%{$reset_color%}%{$fg_bold[magenta]%}])"
 local dir="%{$fg_bold[magenta]%}[$fg[white]%c%{$reset_color%}%{$fg_bold[magenta]%}]%{$reset_color%}"
 PROMPT='%{$fg[magenta]%}┌%{$reset_color%}${dir}%{$fg_bold[magenta]%}[$fg[white]%*%{$fg_bold[magenta]%}]%{$reset_color%}$(git_prompt_info)
-%{$fg[magenta]%}🭲
+%{$fg[magenta]%}│
 %{$fg[magenta]%}└${sta} %{$reset_color%}'
 
 # git
