@@ -1,7 +1,7 @@
 # rei.zsh-theme
 my personal minimalist oh-my-zsh theme.
 
-![img](https://i.ibb.co/5BmFCpK/Screenshot-2022-04-06-23-18-31-35.jpg)
+![img](https://i.ibb.co/tB4F8s8/Screenshot-2022-04-11-00-03-28-1600x900.png)
 
 # installation
 
